@@ -11,6 +11,12 @@ git push -u origin main
 ## https://www.youtube.com/watch?v=r1auJEf9ISo
 
 - yarn add react-intersection-observer framer-motion
+
+## https://michalsnik.github.io/aos/
+
+- yarn add aos@next
+- yarn add @types/aos -D
+
 - yarn add tailwindcss postcss autoprefixer -D
 - yarn add @tailwindcss/forms -D
 - yarn add tailwindcss-animate -D
