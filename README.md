@@ -6,6 +6,7 @@ git push -u origin main
 
 - yarn add typescript @types/node @types/react -D
 - yarn add react-hook-form
+- yarn add next-themes
 - yarn add tailwindcss postcss autoprefixer -D
 - yarn add @tailwindcss/forms -D
 - yarn add tailwindcss-animate -D
@@ -15,6 +16,3 @@ git push -u origin main
 - npx husky-init
 
 kill -9 $(lsof -ti:3000)
-
-gabriel
-joao
