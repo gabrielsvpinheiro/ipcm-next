@@ -11,7 +11,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main>
-        <h1>IPCM</h1>
+        <h1>Hello</h1>
        
       </main>
 
