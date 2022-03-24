@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <ThemeProvider enableSystem={true} attribute='class'>
       <Component {...pageProps} />
     </ThemeProvider>
-  )
+  );
 }
 
-export default MyApp
+export default MyApp;
